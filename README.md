@@ -7,22 +7,22 @@
 Understand how shells work by creating a simplified version of the Unix shell Bash from scratch.
 
 ## Key Features to Implement:
-**Command Execution**: Execute basic commands (ls, pwd) using system calls like fork, execve, and wait.
-**Redirections**: Handle input/output redirection (>, <, >>).
-**Pipes**: Implement piping (|) to connect the output of one command to the input of another.
-**Environment Variables**: Manage variables like PATH to locate executables.
-**Built-in Commands**: Implement shell-specific commands like cd, echo, export, and exit.
-**Signal Handling**: Manage signals like Ctrl+C (SIGINT) and Ctrl+\ (SIGQUIT).
+- **Command Execution**: Execute basic commands (ls, pwd) using system calls like fork, execve, and wait.
+- **Redirections**: Handle input/output redirection (>, <, >>).
+- **Pipes**: Implement piping (|) to connect the output of one command to the input of another.
+- **Environment Variables**: Manage variables like PATH to locate executables.
+- **Built-in Commands**: Implement shell-specific commands like cd, echo, export, and exit.
+- **Signal Handling**: Manage signals like Ctrl+C (SIGINT) and Ctrl+\ (SIGQUIT).
 
 ## Challenges:
-**Parsing**: Splitting and interpreting user input correctly (handling quotes, spaces, and special characters).
-**Memory Management**: Avoiding leaks and managing resources efficiently.
-**Error Handling**: Gracefully dealing with errors and invalid input to prevent the program from leaking or crashing.
+- **Parsing**: Splitting and interpreting user input correctly (handling quotes, spaces, and special characters).
+- **Memory Management**: Avoiding leaks and managing resources efficiently.
+- **Error Handling**: Gracefully dealing with errors and invalid input to prevent the program from leaking or crashing.
 
 ## Skills Developed:
-**System Programming**: Deep understanding of Unix system calls and processes.
-**C Programming**: Mastery of memory management, pointers, and data structures.
-**Problem Solving**: Designing and implementing a complex system from scratch.
+- **System Programming**: Deep understanding of Unix system calls and processes.
+- **C Programming**: Mastery of memory management, pointers, and data structures.
+- **Problem Solving**: Designing and implementing a complex system from scratch.
 
 ## Installation
 
