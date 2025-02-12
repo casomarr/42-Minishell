@@ -1,6 +1,4 @@
-Unix
 <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-CCAC00?style=for-the-badge&logo=linux&logoColor=white" height="25em" alt="Linux"/></a>
-C
 <a href="https://www.cprogramming.com"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25em" alt="C"/></a>
 
 # Minishell
